@@ -1,0 +1,12 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  width: 100vw;
+  min-height: 100vh;
+  height: auto;
+  /* Rectangle 306 */
+
+  background-color: #f2f1f6;
+}
