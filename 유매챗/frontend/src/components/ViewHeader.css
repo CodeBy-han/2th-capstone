@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Single+Day&display=swap");
+
+.single-day-regular {
+  font-family: "Single Day", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.view_header {
+  width: 500px;
+  height: 80px;
+  position: absolute;
+  top: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #444444;
+  background-color: #1e1e1e;
+}
+
+.view_header_h1 {
+  font-weight: 400;
+}
+
+.view_nav_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.login_btn {
+  background-color: #a760fe;
+  padding: 10px 18px;
+  border-radius: 5px;
+}
+
+.register_btn {
+  color: #a760fe;
+  padding: 10px 18px;
+  border-radius: 5px;
+}
